@@ -1,0 +1,16 @@
+---
+layout: default
+title: BBL
+---
+
+<div class="row">
+    <div class="col">
+        <div class="box content">
+            <h3 class="title--section">Nos BBL.</h3>
+
+            {% for bbl in site.data.bbl %}
+            {% include bbl.html bbl=bbl %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

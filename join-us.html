@@ -1,0 +1,49 @@
+---
+layout: default
+title: Rejoignez-nous
+---
+
+<div class="row">
+    <div class="col">
+        <div class="box box--lined">
+            <h3 class="title--section">Rejoignez-nous.</h3>
+
+            <div class="content">
+                {% for job in site.data.jobs %}
+                <a class="row job" href="{{job.url}}" target="_blank" itemscope
+                   itemtype="http://schema.org/JobPosting">
+                    <div class="col text-center job-image">
+                        <img
+                            src="{{ '/assets/images/jobs/' | append: job.image | append: '.svg' | relative_url }}"
+                            alt="{{job.title}}">
+                    </div>
+                    <div class="col col--important job-content">
+                        <div class="content">
+                            <h2 itemprop="title">{{job.title}}</h2>
+                            <div itemprop="description">{{job.description | newline_to_br | markdownify}}</div>
+                        </div>
+                    </div>
+
+                    <meta itemprop="datePosted" content="{{job.datePosted}}"/>
+                    <span class="hidden" itemscope itemprop="jobLocation" itemtype="http://schema.org/Place">
+                                <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="streetAddress" content="32 Rue Riquet"/>
+                                    <meta itemprop="postalCode" content="31000"/>
+                                    <meta itemprop="addressLocality" content="Toulouse"/>
+                                </span>
+                            </span>
+                    <div class="hidden" itemscope itemprop="hiringOrganization"
+                         itemtype="http://schema.org/Organization">
+                        <meta itemprop="name" content="OCTO Toulouse"/>
+                    </div>
+                </a>
+                {% endfor %}
+            </div>
+
+            <div class="content">
+                <a class="btn" href="mailto:toulouse@octo.com?subject=Je veux rejoindre OCTO Toulouse">Candidature
+                    spontanée</a>
+            </div>
+        </div>
+    </div>
+</div>

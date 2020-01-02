@@ -1,0 +1,25 @@
+title: OCTO Toulouse
+lang: fr
+email: toulouse@octo.com
+url: 'https://toulouse.octo.com'
+tel: +33 6 19 90 15 13
+twitter:
+    username: octotoulouse
+    card: summary
+github_username: OCTOTechnology
+social:
+    name: OCTO Toulouse
+    links:
+        - https://twitter.com/octotoulouse
+        - https://github.com/OCTOTechnology
+logo: /brand.png
+google_analytics: UA-134710918-1
+
+markdown: kramdown
+theme: minima
+plugins:
+    - jekyll-feed
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - vendor

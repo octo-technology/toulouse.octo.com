@@ -1,0 +1,241 @@
+@import "octo-vars";
+
+@font-face {
+    font-family: "Avenir LT Com 65";
+    src: url("../assets/fonts/AvenirLTCom-Black.eot");
+    src: url("../assets/fonts/AvenirLTCom-Black.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/AvenirLTCom-Black.woff2") format("woff2"),
+    url("../assets/fonts/AvenirLTCom-Black.woff") format("woff"),
+    url("../assets/fonts/AvenirLTCom-Black.ttf") format("truetype"),
+    url("../assets/fonts/AvenirLTCom-Black.svg#AvenirLTCom-Black") format("svg");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Avenir LT Com 55 Roman";
+    src: url("../assets/fonts/AvenirLTCom-Heavy.eot");
+    src: url("../assets/fonts/AvenirLTCom-Heavy.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/AvenirLTCom-Heavy.woff2") format("woff2"),
+    url("../assets/fonts/AvenirLTCom-Heavy.woff") format("woff"),
+    url("../assets/fonts/AvenirLTCom-Heavy.ttf") format("truetype"),
+    url("../assets/fonts/AvenirLTCom-Heavy.svg#AvenirLTCom-Heavy") format("svg");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Avenir LT Com 35";
+    src: url("../assets/fonts/AvenirLTCom-Light.eot");
+    src: url("../assets/fonts/AvenirLTCom-Light.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/AvenirLTCom-Light.woff2") format("woff2"),
+    url("../assets/fonts/AvenirLTCom-Light.woff") format("woff"),
+    url("../assets/fonts/AvenirLTCom-Light.ttf") format("truetype"),
+    url("../assets/fonts/AvenirLTCom-Light.svg#AvenirLTCom-Light") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cutoff Pro";
+    src: url("../assets/fonts/CutoffPro-BoldItalic.eot");
+    src: url("../assets/fonts/CutoffPro-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/CutoffPro-BoldItalic.woff2") format("woff2"),
+    url("../assets/fonts/CutoffPro-BoldItalic.woff") format("woff"),
+    url("../assets/fonts/CutoffPro-BoldItalic.ttf") format("truetype"),
+    url("../assets/fonts/CutoffPro-BoldItalic.svg#CutoffPro-BoldItalic") format("svg");
+    font-weight: bold;
+    font-style: italic;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    color: $text-color;
+    font-family: $font-text;
+    background-color: $white-color;
+    font-size: $font-text-size;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-title;
+    color: $brand-color;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+
+    &.title--section {
+        font-size: 3.5rem;
+        margin-top: -2.9rem;
+    }
+}
+
+h3 {
+    font-size: 1.9rem;
+
+    &.title--section {
+        font-size: 2.5rem;
+        margin-top: -2.1rem;
+    }
+}
+
+h4 {
+    font-size: 1.4rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+a {
+    color: $brand-light-color;
+
+    &:hover {
+        color: darken($brand-light-color, 10%);
+    }
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5rem;
+}
+
+hr {
+    max-width: 60%;
+    background-color: darken($gray-color, 20%);
+    border: 0;
+    height: 1px;
+    margin: $desktop-padding auto;
+}
+
+img {
+    width: 100%;
+}
+
+.emphase {
+    font-family: $font-headline;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+
+    &--vertical {
+        flex-direction: column;
+    }
+
+    &--vertical > .col {
+        margin-bottom: 2rem;
+        margin-top: $desktop-padding;
+    }
+
+    &--alignCenter {
+        align-items: center;
+    }
+}
+
+.col {
+    flex-basis: 100%;
+}
+
+.box {
+    padding-top: 1rem;
+    background-color: $gray-color;
+    position: relative;
+
+    > .title--section {
+        position: absolute;
+        top: 0;
+    }
+}
+
+.box--lined {
+    padding: $padding;
+    background: transparent url(../assets/images/pattern.svg) repeat;
+
+    > div {
+        background-color: $white-color;
+    }
+}
+
+.title--section {
+    font-family: $font-title;
+    color: $brand-color;
+    display: inline-block;
+    margin: 0;
+    text-decoration: none;
+}
+
+.btn {
+    font-family: $font-headline;
+    display: inline-block;
+    color: $brand-color;
+    border-radius: 10px;
+    margin: 0;
+    padding: 0.7rem;
+    padding-bottom: 0.5rem;
+    text-decoration: none;
+    border: 2px solid $brand-color;
+
+    &:hover {
+        background-color: $brand-color;
+        color: $white-color;
+    }
+}
+
+.content {
+    padding: $padding;
+
+    > h2:first-child {
+        margin-top: 0;
+    }
+}
+
+@media screen and (min-width: $tablet-size) {
+    h3.title--section {
+        font-size: 3rem;
+        margin-top: -2.5rem;
+    }
+
+    .col {
+        flex: 1;
+
+        &--important {
+            flex: 2;
+        }
+    }
+
+    .row {
+        &.padded > .col {
+            padding-right: 2rem;
+        }
+
+        &.padded > .col:last-child {
+            padding-right: 0;
+        }
+    }
+
+    .content {
+        padding: $desktop-padding;
+    }
+
+    .box--lined {
+        padding: $desktop-padding;
+    }
+}
+
+@media screen and (min-width: $desktop-size) {
+    h3.title--section {
+        font-size: 3.5rem;
+        margin-top: -2.9rem;
+    }
+}

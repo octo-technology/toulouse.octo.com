@@ -1,0 +1,267 @@
+@import "octo-vars";
+
+.wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.brand-image {
+    padding: $padding;
+}
+
+.brand-image, .banner img {
+    width: 100%;
+}
+
+footer {
+    .col {
+        margin-bottom: $padding;
+    }
+}
+
+.footer-social {
+    text-align: right;
+
+    img {
+        width: 13%;
+        border-radius: 50%;
+    }
+}
+
+header {
+    background-color: #E0E1E6;
+    margin-bottom: $desktop-padding * 3;
+}
+
+.hidden {
+    display: none;
+}
+
+
+// Homepage
+
+.why {
+    position: relative;
+    background-color: $white-color;
+    padding: $padding;
+    padding-top: $desktop-padding;
+    font-family: $font-headline;
+    letter-spacing: 0.05rem;
+
+    p {
+        font-weight: normal;
+        font-size: 1.7rem;
+        line-height: 2.5rem;
+        margin: 0;
+    }
+
+    .emphase {
+        color: $brand-light-color;
+        font-family: $font-emphase;
+    }
+}
+
+.camp-img {
+    float: left;
+    width: 50%;
+    margin-right: $padding;
+}
+
+#about-camp {
+    margin-top: $padding;
+}
+
+.people-card {
+    flex-basis: calc(100% / 2 - 2rem);
+    margin: 1rem;
+    text-decoration: none;
+
+    h4 {
+        min-height: 4.5rem;
+    }
+
+    img {
+        width: 100%;
+        border-radius: 50%;
+    }
+}
+
+
+// Event
+
+.event-title {
+    background-color: $brand-color;
+    align-items: center;
+    color: $white-color;
+
+    &--date {
+        background-color: darken($gray-color, 10%);
+        width: 25%;
+
+        span:first-child {
+            background-color: $brand-light-color;
+            display: block;
+            font-weight: bold;
+            padding: 0.2em;
+        }
+
+        span:last-child {
+            color: $text-color;
+            font-size: 2.5em;
+        }
+    }
+
+    &--content {
+        font-family: $font-headline;
+        margin: 0.5rem;
+        flex: 1;
+
+        a {
+            color: $white-color;
+            text-decoration: none;
+        }
+    }
+}
+
+.event {
+    background-color: $white-color;
+    border-radius: 0.5em;
+    overflow: hidden;
+    margin-bottom: 2rem;
+
+    &--content {
+        padding: 2em;
+
+        a {
+            float: right;
+        }
+    }
+}
+
+
+// Join us page
+
+.job {
+    text-decoration: none;
+    color: $text-color;
+    margin-bottom: $desktop-padding;
+    align-items: center;
+    background-color: $gray-color;
+
+    &:hover, &:hover h2 {
+        color: $white-color !important;
+    }
+
+    img {
+        height: 12rem;
+        padding: 2rem;
+    }
+
+    &-content {
+        background-color: #C0E5E4;
+    }
+
+    &:nth-child(even) &-content {
+        background-color: $brand-light-blue;
+    }
+
+    &:nth-child(odd) {
+        background-color: darken($gray-color, 3%);
+    }
+}
+
+.bbl {
+    margin-bottom: $desktop-padding;
+
+    .page-index & .bbl-description {
+        display: none;
+    }
+
+    &-title {
+        color: $brand-light-color;
+        width: 65%;
+        display: inline-block;
+        margin: 0;
+        font-family: $font-headline;
+
+        & span {
+            font-size: 1.3rem;
+            border-bottom: 1px dotted;
+        }
+
+        & small {
+            color: $brand-color;
+        }
+    }
+
+    &-cta {
+        float: right;
+    }
+}
+
+
+// Team page
+
+.people {
+    margin: $desktop-padding 0;
+
+    img {
+        padding: $desktop-padding;
+        margin-top: -$desktop-padding;
+        border-radius: 50%;
+    }
+
+    &-bbl {
+        border: 1px solid $brand-light-blue;
+        padding: $padding;
+        padding-top: 0;
+        border-radius: 1rem;
+    }
+
+    &-name {
+        margin-top: 0;
+    }
+
+    .col--important {
+        flex: 3;
+    }
+}
+
+@media screen and (min-width: $tablet-size) {
+    .banner img {
+        width: 30%;
+    }
+
+    .brand-image {
+        width: 350px;
+    }
+
+    .job {
+        margin-bottom: 0;
+    }
+
+    .camp-img {
+        width: 60%;
+    }
+
+    .bbl-title {
+        width: 75%;
+    }
+
+    .people-card {
+        flex-basis: calc(100% / 4 - 2rem);
+        padding: 0 1rem !important;
+        flex-grow: 0;
+        flex-shrink: 0;
+    }
+}
+
+@media screen and (min-width: $desktop-size) {
+    .wrapper {
+        width: 85%;
+    }
+}
