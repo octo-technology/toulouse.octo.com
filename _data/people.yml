@@ -1,49 +1,47 @@
-- poly: CAMP
-  name: Nicolas Campourcy
-  job: Consultant Agile | Product Owner
-  bio: |
-      Nicolas est un expert en Lean Engineering et en conception de produits, notamment d’applications mobiles. Il a rejoint OCTO Technology en Janvier  2019.<br/>Entre 2011 et 2014, Nicolas intervient auprès de grands groupes industriels (Airbus, Bombardier, Areva) et d’ETI (Mobalpa) comme coach/formateur en Lean Engineering et déploie les outils et méthodes (Management Visuel, Value Stream Mapping, Problem solving) après des divisions métiers (R&D, Produit, Opérations, fonctions supports).<br/>Depuis 2015, Nicolas se spécialise dans les applications mobiles en B2B et B2C, de la conception du produit jusqu’à la livraison et la mise sur le marché. Il a créé en France l’application Image It destinée aux voyageurs nomades puis est parti au Vietnam fonder HOTTAB, une startup d’édition d’applications pour restaurants, où il a occupé les postes de Product Owner et Scrum Master avant de prendre des responsabilités commerciales.<br/>Nicolas est passionné par la conception de produits, le partage des méthodes ainsi que l’amélioration continue. Il est également convaincu que la transformation digitale des entreprises passe par l’innovation et l’adoption de nouveaux usages.
+-   poly: AMBE
+    name: Benjamin Amanrich
+    job: Software Craftsman | Devops
+    bio: |
+        TODO
 
-- poly: ASI
-  name: Alexandre Siguier
-  job: Manager campement
-  bio: |
-      TODO
+-   poly: CAMP
+    name: Nicolas Campourcy
+    job: Consultant Agile | Product Owner
+    bio: |
+        Nicolas est un expert en Lean Engineering et en conception de produits, notamment d’applications mobiles. Il a rejoint OCTO Technology en Janvier  2019.<br/>Entre 2011 et 2014, Nicolas intervient auprès de grands groupes industriels (Airbus, Bombardier, Areva) et d’ETI (Mobalpa) comme coach/formateur en Lean Engineering et déploie les outils et méthodes (Management Visuel, Value Stream Mapping, Problem solving) après des divisions métiers (R&D, Produit, Opérations, fonctions supports).<br/>Depuis 2015, Nicolas se spécialise dans les applications mobiles en B2B et B2C, de la conception du produit jusqu’à la livraison et la mise sur le marché. Il a créé en France l’application Image It destinée aux voyageurs nomades puis est parti au Vietnam fonder HOTTAB, une startup d’édition d’applications pour restaurants, où il a occupé les postes de Product Owner et Scrum Master avant de prendre des responsabilités commerciales.<br/>Nicolas est passionné par la conception de produits, le partage des méthodes ainsi que l’amélioration continue. Il est également convaincu que la transformation digitale des entreprises passe par l’innovation et l’adoption de nouveaux usages.
 
+-   poly: GAST
+    name: Stéphane Gaulier
+    job: Partner
+    bio: |
+        TODO
 
-- poly: JEHE
-  name: Jérôme Heurtin
-  job: Software Craftsman
-  bio: |
-      Jérôme est diplômé de l’écôle d’ingénieur d’informatique de la Réunion, qu’il a validé suite à une dernière année d’échange à Telecom Lille.<br/>Il découvre l’agilité et l’univers des Software Craftmen au cours de sa première expérience professionnelle. Depuis il raffole des problématiques de qualité de code et d’architecture logicielle et comment y répondre via les pratiques d’eXtrem programming.<br/>Jérôme adore partager avec son équipe, afin de progresser avec elle sur des sujets de développement, mais aussi de management 3.0 et de coaching.
+-   poly: GOIV
+    name: Ivan Gorobenko
+    job: Coach Agile | Product Owner
+    bio: |
+        Ivan a 8 ans d'expérience en tant que développeur, chef d'équipe, consultant, chef de projet, scrum master et product owner. Il est un consultant polyvalent et a développé une forte expertise en matière de livraison de projets dans différents contextes.<br/>Il a travaillé dans différents domaines, l'énergie et les services publics, le transport et le marketing avec des équipes multiculturelles. Il a mis en place des méthodes de travail en équipe en utilisant Scrum, Kanban ou les deux.<br/>Il est un agiliste convaincu qui croit qu'une collaboration étroite, une amélioration continue et une prise de décision pragmatique peuvent créer de fortes synergies et de grands résultats.<br/>Pédagogue et à l'écoute, il est aussi convaincu que le coaching est un excellent moyen d'activer le potentiel des équipes.
 
+-   poly: JEHE
+    name: Jérôme Heurtin
+    job: Software Craftsman
+    bio: |
+        Jérôme est diplômé de l’écôle d’ingénieur d’informatique de la Réunion, qu’il a validé suite à une dernière année d’échange à Telecom Lille.<br/>Il découvre l’agilité et l’univers des Software Craftmen au cours de sa première expérience professionnelle. Depuis il raffole des problématiques de qualité de code et d’architecture logicielle et comment y répondre via les pratiques d’eXtrem programming.<br/>Jérôme adore partager avec son équipe, afin de progresser avec elle sur des sujets de développement, mais aussi de management 3.0 et de coaching.
 
-- poly: FLTI
-  name: Floris Tisseyre
-  job: Software Craftsman | Coach Agile
-  bio: |
-      Floris a une expérience de 10 ans dans les projets de transformation. Il a implémenté des méthodes de développement Scrum, XP et Software Craftsmanship chez Anaqua pendant 3 ans.<br/>Son objectif principal est de promouvoir les valeurs agiles comme la transparence, le courage et le désir d'amélioration continue, aussi bien en tant qu'individu qu'en tant qu'équipe.<br/>Floris a mené une réécriture complète du SI pour une aciérie chez ArcelorMittal et a développé une forte capacité à changer les mentalités et la culture dans un contexte industriel.<br/>Floris est convaincu que les équipes ne peuvent se construire et se développer que si elles sont basées sur des valeurs communes.<br/>
+-   poly: CHRY
+    name: Charles Pichery
+    job: Software Craftsman
+    bio: |
+        Charles a obtenu un diplôme d’Ingénieur Civil des Mines à L’Ecole Nationale Supérieure des Mines de Saint Etienne en 2012. Suite à cela, il a d’abord fait un stage en recherche informatique chez IBM en Irlande, pour ensuite travailler pour Amadeus pendant 7 ans, d’abord en sous traitance chez Synchrone Technologies, puis en direct.<br/>Fort de ces 7 années d’expérience dans les applications e-commerce pour les compagnies aériennes, où il a d’abord occupé le poste de développeur, puis tech leader, ainsi que le rôle de Scrum Master, Charles a acquis un certain recul sur les pratiques de développement et la gestion de projets en méthodologie agile.<br/>Charles a rejoint OCTO en Novembre 2019, souhaitant développer sa pratique du Software Craftsmanship et assouvir sa passion pour l’accompagnement d’entreprises différentes, que ce soit en taille, organisation, technologies ou culture.
 
-- poly: GAST
-  name: Stéphane Gaulier
-  job: Partner
-  bio: |
-      TODO
+-   poly: ASI
+    name: Alexandre Siguier
+    job: Manager campement
+    bio: |
+        TODO
 
-- poly: AMBE
-  name: Benjamin Amanrich
-  job: Software Craftsman | Devops
-  bio: |
-      TODO
-
-- poly: GOIV
-  name: Ivan Gorobenko
-  job: Coach Agile | Product Owner
-  bio: |
-      Ivan a 8 ans d'expérience en tant que développeur, chef d'équipe, consultant, chef de projet, scrum master et product owner. Il est un consultant polyvalent et a développé une forte expertise en matière de livraison de projets dans différents contextes.<br/>Il a travaillé dans différents domaines, l'énergie et les services publics, le transport et le marketing avec des équipes multiculturelles. Il a mis en place des méthodes de travail en équipe en utilisant Scrum, Kanban ou les deux.<br/>Il est un agiliste convaincu qui croit qu'une collaboration étroite, une amélioration continue et une prise de décision pragmatique peuvent créer de fortes synergies et de grands résultats.<br/>Pédagogue et à l'écoute, il est aussi convaincu que le coaching est un excellent moyen d'activer le potentiel des équipes.
-
-- poly: CHRY
-  name: Charles Pichery
-  job: Software Craftsman
-  bio: |
-      Charles a obtenu un diplôme d’Ingénieur Civil des Mines à L’Ecole Nationale Supérieure des Mines de Saint Etienne en 2012. Suite à cela, il a d’abord fait un stage en recherche informatique chez IBM en Irlande, pour ensuite travailler pour Amadeus pendant 7 ans, d’abord en sous traitance chez Synchrone Technologies, puis en direct.<br/>Fort de ces 7 années d’expérience dans les applications e-commerce pour les compagnies aériennes, où il a d’abord occupé le poste de développeur, puis tech leader, ainsi que le rôle de Scrum Master, Charles a acquis un certain recul sur les pratiques de développement et la gestion de projets en méthodologie agile.<br/>Charles a rejoint OCTO en Novembre 2019, souhaitant développer sa pratique du Software Craftsmanship et assouvir sa passion pour l’accompagnement d’entreprises différentes, que ce soit en taille, organisation, technologies ou culture.
+-   poly: FLTI
+    name: Floris Tisseyre
+    job: Software Craftsman | Coach Agile
+    bio: |
+        Floris a une expérience de 10 ans dans les projets de transformation. Il a implémenté des méthodes de développement Scrum, XP et Software Craftsmanship chez Anaqua pendant 3 ans.<br/>Son objectif principal est de promouvoir les valeurs agiles comme la transparence, le courage et le désir d'amélioration continue, aussi bien en tant qu'individu qu'en tant qu'équipe.<br/>Floris a mené une réécriture complète du SI pour une aciérie chez ArcelorMittal et a développé une forte capacité à changer les mentalités et la culture dans un contexte industriel.<br/>Floris est convaincu que les équipes ne peuvent se construire et se développer que si elles sont basées sur des valeurs communes.<br/>
