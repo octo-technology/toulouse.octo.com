@@ -28,12 +28,6 @@
     bio: |
         Ivan a 8 ans d’expérience en tant que développeur, chef d’équipe, consultant, chef de projet, scrum master et product owner. Il est un consultant polyvalent et a développé une forte expertise en matière de livraison de projets dans différents contextes. <br/>Il a travaillé dans différents domaines, l’énergie et les services publics, le transport et le marketing avec des équipes multiculturelles. Il a mis en place des méthodes de travail en équipe en utilisant Scrum, Kanban ou les deux. <br/>Il est un agiliste convaincu qui croit qu’une collaboration étroite, une amélioration continue et une prise de décision pragmatique peuvent créer de fortes synergies et de grands résultats. <br/>Pédagogue et à l’écoute, il est aussi convaincu que le coaching est un excellent moyen d’activer le potentiel des équipes.
 
--   poly: JEHE
-    name: Jérôme Heurtin
-    job: Software Craftsman
-    bio: |
-        Jérôme est diplômé de l’écôle d’ingénieur d’informatique de la Réunion, qu’il a validé suite à une dernière année d’échange à Telecom Lille. <br/>Il découvre l’agilité et l’univers des Software Craftmen au cours de sa première expérience professionnelle. Depuis il raffole des problématiques de qualité de code et d’architecture logicielle et comment y répondre via les pratiques d’eXtrem programming. <br/>Jérôme adore partager avec son équipe, afin de progresser avec elle sur des sujets de développement, mais aussi de management 3.0 et de coaching
-
 -   poly: CHRY
     name: Charles Pichery
     job: Software Craftsman
@@ -45,10 +39,4 @@
     job: Consultant Agile | Architecte d'Entreprise
     bio: |
         Alexandre a plusieurs années d'expérience dans deux domaines a priori bien éloignés : l'agilité des équipes de réalisation et l'architecture d'entreprise. <br/>Cette double approche lui permet d'accompagner les équipes au quotidien, en travaillant sur les dynamiques d'équipes tout en travaillant sur l'intégration dans le système plus grand qu'est l'entreprise.
-
--   poly: FLTI
-    name: Floris Tisseyre
-    job: Software Craftsman | Coach Agile
-    bio: |
-        Floris a une expérience de 10 ans dans les projets de transformation. Il a implémenté des méthodes de développement Scrum, XP et Software Craftsmanship chez Anaqua pendant 3 ans.<br/>Son objectif principal est de promouvoir les valeurs agiles comme la transparence, le courage et le désir d'amélioration continue, aussi bien en tant qu'individu qu'en tant qu'équipe.<br/>Floris a mené une réécriture complète du SI pour une aciérie chez ArcelorMittal et a développé une forte capacité à changer les mentalités et la culture dans un contexte industriel.<br/>Floris est convaincu que les équipes ne peuvent se construire et se développer que si elles sont basées sur des valeurs communes.<br/>
 
