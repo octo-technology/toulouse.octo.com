@@ -46,7 +46,7 @@ layout: default
         <div class="row row--vertical">
             <div class="col">
                 <div class="box content">
-                    <h2>OCTO recrute à Toulouse</h2>
+                    <h2>OCTO recrute à Toulouse.</h2>
 
                     <p>Plus qu'une <b class="emphase">Great Place To Work</b>, OCTO se vit en interne comme une
                         véritable <b class="emphase">Best Place To Grow</b>.</p>
@@ -94,14 +94,14 @@ layout: default
             <div class="row">
                 {% for people in site.data.people %}
                 <a class="col people-card" href="/equipe.html#{{people.poly}}">
+                    <img
+                        src="{{ '/assets/images/people/' | append: people.poly | append: '.jpg' | relative_url }}"
+                        alt="{{people.name}}">
                     <h4 class="text-center">
                         {{people.name}}
                         <br>
                         <small>{{people.job}}</small>
                     </h4>
-                    <img
-                        src="{{ '/assets/images/people/' | append: people.poly | append: '.jpg' | relative_url }}"
-                        alt="{{people.name}}">
                 </a>
                 {% endfor %}
             </div>

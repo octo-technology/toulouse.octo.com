@@ -14,20 +14,34 @@
     name: Christelle Bergé
     job: Consultant Agile | Product Owner
     bio: |
-        TODO
+        Christelle a 8 années d'expérience auprès de clients industriels.
+        C’est en 2016, sur un projet extrêmement attendu, que l’agilité s’est imposée comme voie la plus raisonnable pour livrer rapidement un produit qui réponde aux besoins prioritaires. Les efforts fournis ont été transformés en promesses tenues.
+        Aujourd’hui, elle maîtrise les frameworks et les outils, prolongeant ainsi son expertise initiale en gestion de projets, en management d'équipes et en transformation des organisations. Elle est certifiée SAFe 4 Agilist.
+        Les équipes et les rôles qu’elle accompagne gagnent en alignement sur le produit ou le service, collaborent mieux aux interfaces, changent leur façon d’appréhender les choses et augmentent ainsi leur performance. Son style naturel de leadership invite à l’implication et à l’expression, au courage et aux feedbacks, qui sont essentiels à l'autonomisation et à l'initiative.
+        Christelle sait s’adapter aux contextes en ajustant ses postures d’expert, de formateur, de facilitateur et de coach.
+        Elle parle couramment l'anglais.
 
 -   poly: GAST
     name: Stéphane Gaulier
     job: Partner
     bio: |
-        TODO
+        De formation aéronautique, GAST a débuté sa carrière en 1996 dans la mise en œuvre fonctionnelle et technique d’un ERP spécifique sur le marché des services industriels. Cette expérience lui a permis d’appréhender des techniques de développement, d’optimisation et de maintenance logiciel alors naissantes et ce, tant sur le backend, le frontend que les bases de données.
+        Par la suite, il a poursuivi son expérience dans le domaine des télécommunications en abordant la problématique des progiciels mixant bonne connaissance du logiciel standard, de son paramétrage et des développement spécifiques à y connecter. Au cours de ces quelques années, GAST a pu approfondir :
+        La conception et l’architecture applicative, le développement, les tests, la migration, les mise en production et les opérations
+        La contribution à de larges projets d’implémentation et de maintenance en environnement souvent contraint, tout comme le lancement d’entités nouvelles en mode start-up en environnement totalement vierge.
+        Depuis 17 ans, GAST évolue en région toulousaine, majoritairement dans le secteur aéronautique où il a pu développer une complémentarité bout-en-bout sur des expertises métier (Manufacturing & Qualité, Supply Chain, Customer Service, Engineering) et une bonne appréhension des technologies en place ou émergente, mais également sur les pratiques du changement des processus et des organisations.
+        Successivement il a pu ainsi contribuer à de larges programmes de transformation introduisant de nouveaux concepts tels que la Digital Factory (en lien avec les PLM), la mise en place d’ERP (SAP) englobant plusieurs métiers, organisations et géographies, et ce pour différents clients.
+        Dans l’esprit de cette complémentarité, c’est tout naturellement qu’il embrasse le monde digital en 2015 pour mettre au service des métiers les nouvelles technologies émergentes incluant le Cloud, la Mobilité et la Réalité Étendue, l’Analytics (et la Data Science), l’IoT et autres sujets tels que la Blockchain.
+        Aujourd’hui, il anime le déploiement de l’offre OCTO Technology sur la mise en oeuvre des technologies digitales et les méthodologiques associées (agilité, craft), pour le compte des clients de la région Sud-Ouest et ceux du monde aéronautique et spatial en France.
+
 
 -   poly: GOIV
     name: Ivan Gorobenko
     job: Coach Agile | Software Craftsman
     bio: |
-        Ivan a 8 ans d’expérience en tant que développeur, chef d’équipe, consultant, chef de projet, scrum master et product owner. Il est un consultant polyvalent et a développé une forte expertise en matière de livraison de projets dans différents contextes. <br/>Il a travaillé dans différents domaines, l’énergie et les services publics, le transport et le marketing avec des équipes multiculturelles. Il a mis en place des méthodes de travail en équipe en utilisant Scrum, Kanban ou les deux. <br/>Il est un agiliste convaincu qui croit qu’une collaboration étroite, une amélioration continue et une prise de décision pragmatique peuvent créer de fortes synergies et de grands résultats. <br/>Pédagogue et à l’écoute, il est aussi convaincu que le coaching est un excellent moyen d’activer le potentiel des équipes.
-
+        Ivan a 10 années d’expérience en tant que développeur, coach agile, consultant, scrum master et product owner. Il est un consultant polyvalent et a travaillé dans des diverses domaines métier: energie & utilities, transport, marketing et aéronautique, dans des équipes multiculturelles.
+        Durant sa carrière, Ivan a expérimenté divers cadres d’organisations, du cycle en V jusqu’à Kanban, Scrum et XP. Il est convaincu que la mise en pratique des valeurs de l’agilité et de l’artisanat du code sont des atouts indéniables pour créer des formidables produits.
+        Chez OCTO Ivan a démarré son parcours il y a 3 ans en tant que coach agile. Aujourd’hui il cherche à approfondir son expertise en tant que développeur Craft fullstack.
 -   poly: CHRY
     name: Charles Pichery
     job: Software Craftsman
@@ -40,3 +54,51 @@
     bio: |
         Alexandre a plusieurs années d'expérience dans deux domaines a priori bien éloignés : l'agilité des équipes de réalisation et l'architecture d'entreprise. <br/>Cette double approche lui permet d'accompagner les équipes au quotidien, en travaillant sur les dynamiques d'équipes tout en travaillant sur l'intégration dans le système plus grand qu'est l'entreprise.
 
+-   poly: YOL
+    name: Yohan Lascombe
+    job: Devops
+    bio: |
+        Après un diplôme d’ingénieur en Informatique de l’école Polytech’Montpellier en 2007, Yohan a débuté son parcours chez une grande société informatique internationale en tant que Software Engineer sur du développement Java et site internet bancaire.
+        Après 7 ans dans le développement dans lequel il a occupé plusieurs postes : développeur, tech-lead et architecte technique, il a ensuite choisi de rejoindre OCTO et de compléter son profil « Dev » par une dimension « Ops » notamment en se spécialisant sur des missions sur les outils et pratiques DevOps. Il a participé à des missions de conseil (matrice de maturité DevOps), missions d’accompagnement, des missions de réalisation et mission de transformation DevOps.
+        Il porte une attention particulière à la collaboration entre les Dev et les Ops pour faire avancer et aboutir un projet.
+        Yohan continue de développer ses compétences DevOps et s’investi pleinement sur la Cloudification et automatisation des infrastructure et applications.
+
+-   poly: POSY
+    name: Sylvie Ponthus
+    job: Coach Agile | Software Craftsman
+    bio: |
+        Développeur informatique, Sylvie a travaillé dans des équipes de développement de taille et de contexte très différents : chez un éditeur de progiciel ou dans un grand groupe, dans des petites structure et aussi pour de gros industriels.
+        Au fur et à mesure des projets Sylvie est devenue chef de projet. Tenir l’engagement est devenu l’objectif. Cette expérience lui a permis d’appréhender le génie logiciel dans sa globalité.
+        Son engouement pour l’agilité est le  résultat d’une maturation professionnelle. En effet, lo proximité du client et les échanges réguliers ont rendu de plus en plus évident que les adaptations du projet doivent être réalisées pendant le projet.
+        Sylvie s’est investie dans l’agilité en devenant Scrum Master, puis coach agile.
+        Récemment, elle a rejoint OCTO, afin de travailler dans un environnement stimulant de partages.
+
+-   poly: JAMI
+    name: Michael Jach
+    job: Software Craftsman
+    bio: |
+        A Navblue (filiale d’Airbus), Michael a pu participer activement au développement d’un produit voué à la gestion des évènements qui se produisent lors d’un vol aérien. Le socle technique du projet intégrait du VueJS, Java Spring,  Terraform, Jenkins, Git, Docker, CesiumJS, Leaflet, D3Js, ...
+        Il a apporté son expertise sur de nombreux sujets et notamment sur l’architecture du projet frontend ainsi que du développement de celui-ci.
+        Grâce à ses appétences d’UX et UI il a également été force de proposition avec les équipes de design pour adapter le produit aux souhaits des utilisateurs finaux. Faisant partie intégrante d’une équipe de 10 personnes, Michael est une personne sociable et sait s’exprimer en public.
+        Récemment, il a rejoint OCTO et souhaitant s’orienter dans les technologies de cloud et d'automatisation, Michael intègre une équipe en charge du développement d’une application pour la DGAC (Direction Générale de l’Aviation Civile). Application qui intègre de nombreuses technologies telles que React, NodeJS, Typescript, Docker, Ansible, Terraform, Terragrunt express, Gitlab, … Ce projet lui permet de développer de nouvelles compétences dans le domaine du DevOps.
+
+-   poly: GRAM
+    name: Martin Gravellini
+    job: Manager Data Science
+    bio: |
+        Martin est manager avec plus de 7 années d’expérience au sein d’Accenture et Octo sur des sujets de cadrage, développement et implémentation de projets et services Data Science.
+        Il aide les clients à valoriser leurs données au sein d’équipes pluridisciplinaires, incluant des data scientists, data engineer, data managers et data analystes, pour les départements des ventes et marketing, de la BI, ou de la logistique et approvisionnement. Il a travaillé pour différentes industries : services financiers, media, grande distribution, laboratoires pharmaceutiques…
+        Martin est diplômé de l’ENSAE et de Sciences Po Paris.
+        Parmi ses expérience pertinentes, Martin a accompagné ses clients dans :
+        Le développement de Data Lab (Grande Banque internationale et Groupe Cosmétique international), en participant à la réalisation de prototypes et à leur mise en production, en accompagnement l’équipe dans son organisation et sa valorisation au sein du groupe
+        La réalisation d’un système de recommandation de programmes pour un Média français, ainsi que la personnalisation des l’expérience des abonnés, depuis la mise en place et l’amélioration des algorithmes de recommandations, jusqu’à leur mise en production dans un environnement Big Data
+        L’accompagnement des différents acteurs de la Grande Distribution, notamment sur des problématiques de prévisions de ventes et d’optimisation des opérations promotionnelles.
+
+-   poly: RIVI
+    name: Reynald Riviere
+    job: Senior Manager Data Science
+    bio: |
+        Reynald a rejoint OCTO Technology comme Senior Manager en Data Science pour intervenir sur des missions de création de nouveaux services et produits basés sur l’IA et la data .
+        Au début de sa carrière, avec l’arrivée de la vague Internet, il prend en charge la création de Systèmes d’Information Web dans la banque (Natixis), la bourse (Consors) ou l’assurance (MSA) pendant 15 ans. Puis il s’engouffre très tôt dans celle de l’IA et du machine learning avec un parcours de formation et des compétitions de Machine Learning qui le hissent dans le TOP 20 du classement Kaggle en France,  Il décide alors de créer sa startup AI-motion spécialisée en marketing et IA.
+        Continental lui confie la mise en place de l’équipe de R&D d’IA en France sur le véhicule intelligent et connecté qui se traduira notamment par l’acceptation de plusieurs brevets sur le véhicule autonome.
+        Reynald rejoint ensuite une cabinet de conseil comme Chief Data Scientist pour animer la communauté de data scientist chez des clients de secteurs variés comme l’industrie automobile, l’aéronautique, le retail, etc.
