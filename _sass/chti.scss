@@ -32,6 +32,15 @@ footer {
     }
 }
 
+.footer-bcorp {
+    text-align: center;
+
+    img {
+        width: 13%;
+        border-radius: 50%;
+    }
+}
+
 header {
     background-color: #E0E1E6;
     margin-bottom: $desktop-padding * 3;
