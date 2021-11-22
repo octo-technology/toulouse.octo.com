@@ -39,6 +39,26 @@ layout: default
                     {% endfor %}
                 </div>
             </div>
+			<div class="col">
+				<div class="box content">
+					<h3 class="title--section">L'équipe.</h3>
+
+					<div class="row">
+						{% for people in site.data.people %}
+						<a class="col people-card" href="/equipe.html#{{people.poly}}">
+							<img
+								src="{{ '/assets/images/people/' | append: people.poly | append: '.jpg' | relative_url }}"
+								alt="{{people.name}}">
+							<h4 class="text-center">
+								{{people.name}}
+								<br>
+								<small>{{people.job}}</small>
+							</h4>
+						</a>
+						{% endfor %}
+					</div>
+				</div>
+			</div>
         </div>
     </div>
 
@@ -50,9 +70,10 @@ layout: default
 
                     <p>Plus qu'une <b class="emphase">Great Place To Work</b>, OCTO se vit en interne comme une
                         véritable <b class="emphase">Best Place To Grow</b>.</p>
+					<a href="/join-us.html" style="width:100%;" class="btn text-center">Rejoignez-nous !</a>
                     <img src="assets/images/GPTW.jpg">
                     <img class="img-bcorp" src="assets/images/BCorp-black.png">
-                    <a href="/join-us.html" class="btn">Rejoignez-nous !</a>
+                    
                 </div>
             </div>
 
@@ -87,28 +108,9 @@ layout: default
     </div>
 </div>
 
-<div class="row row--vertical">
-    <div class="col">
-        <div class="box content">
-            <h3 class="title--section">L'équipe.</h3>
+<!--div class="row row--vertical">
 
-            <div class="row">
-                {% for people in site.data.people %}
-                <a class="col people-card" href="/equipe.html#{{people.poly}}">
-                    <img
-                        src="{{ '/assets/images/people/' | append: people.poly | append: '.jpg' | relative_url }}"
-                        alt="{{people.name}}">
-                    <h4 class="text-center">
-                        {{people.name}}
-                        <br>
-                        <small>{{people.job}}</small>
-                    </h4>
-                </a>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</div>
+</div-->
 
 <div class="row row--vertical">
     <div class="col">
