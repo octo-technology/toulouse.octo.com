@@ -1,24 +1,33 @@
-- title: Consultant Data Geek (F/H)
+- title: Consultante / Consultant Data Geek
   description: |
-      Vous faites partie de ceux/celles qui veulent diffuser leurs valeurs et savoir-faire pour concrétiser la transformation numérique dans la région toulousaine,
-      et ce avec audace et plaisir ? Vous voulez développer une empreinte forte et recruter une équipe de choc. Alors lisez attentivement ce qui suit car 
-      OCTO s’implante dans la Ville Rose !
-  url: https://rejoins.octo.com/job-offers/47
+      Vous faites partie de celles et ceux qui veulent diffuser leurs valeurs et savoir-faire pour concrétiser des projets d’Intelligence Artificielle dans la région toulousaine, et ce avec audace et plaisir ? 
+      Vous voulez développer une empreinte forte et intégrer une équipe de choc ? 
+      OCTO intervient sur des missions autour de la transformation digitale (digital factory, création de solutions / applications personnalisées, conseil en architecture, etc.), nous travaillons en agilité et nous nous différencions par notre expertise et notre manière de faire.
+      Notre activité Data à Toulouse est en pleine croissance et nous recrutons pour accompagner ce développement une consultante / un consultant Data Geek.
+  url: https://rejoins.octo.com/offre/consultant-data-geek-toulouse-f-h/
   image: datageek
-  datePosted: 2020-01-01
+  datePosted: 2021-11-22
 
-- title: Ingénieur DevOps (F/H)
+- title: Consultante / Consultant DevOps – Toulouse
   description: |
-      Vous voulez vous confronter et contribuer à une communauté d’experts, pour qui l’évolution des pratiques et l’apprentissage continu font particulièrement sens?
-  url: https://rejoins.octo.com/job-offers/105
+      Vous faites partie de celles et ceux qui pensent que même avec plusieurs années d’expérience, on peut toujours apprendre et être challengé ?
+      Si vous aussi vous pensez que le DevOps n’est pas qu’une histoire d’outils mais plutôt de culture ? Alors cette offre est faite pour vous !
+  url: https://rejoins.octo.com/offre/consultante-consultant-devops-toulouse-f-h/
   image: ops
-  datePosted: 2020-01-01
+  datePosted: 2021-11-22
 
-- title: Consultant - Développeur Craft
+- title: Développeuse / Développeur Fullstack – Toulouse.
   description: |
-      Vous faites partie de ceux/celles qui veulent diffuser leurs valeurs et savoir-faire pour concrétiser des projets d’Intelligence Artificielle dans la région toulousaine,
-      et ce avec audace et plaisir ? Vous voulez développer une empreinte forte et recruter une équipe de choc ? Alors lisez attentivement ce qui suit car 
-      OCTO s’implante dans la Ville Rose !
-  url: https://rejoins.octo.com/job-offers/106
+      Vous faites partie de celles et ceux qui veulent diffuser leurs valeurs et savoir-faire pour concrétiser des projets de développement en région toulousaine, et ce avec audace et plaisir ?
+      Vous voulez développer une empreinte forte et intégrer une équipe de choc ? 
+  url: https://rejoins.octo.com/offre/developpeuse-developpeur-fullstack-toulouse-f-h/
   image: craft
-  datePosted: 2020-01-01
+  datePosted: 2021-11-22
+
+- title: Consultante / Consultant Craft
+  description: |
+      Vous faites partie de celles et ceux qui veulent diffuser leurs valeurs et savoir-faire pour concrétiser la transformation numérique de la région Sud-Ouest, et ce, avec audace et plaisir ? Apprendre, se faire challenger et prendre des G ne vous font pas peur ?
+      OCTO poursuit son implantation sur l’arc Bordeaux-Toulouse-Sète !
+  url: https://rejoins.octo.com/offre/consultante-consultant-craft/
+  image: craft
+  datePosted: 2021-11-22

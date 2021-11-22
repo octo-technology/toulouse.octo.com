@@ -1,15 +1,3 @@
--   poly: AMBE
-    name: Benjamin Amanrich
-    job: Software Craftsman | DevOps
-    bio: |
-        AMBE a grandi dans l’univers des startups, et ce bien avant l'invention de la Startup Nation.<br/>Il a eu l’occasion d’y aborder le développement d’algorithmes performants de vision par ordinateur, tant sur mobile que dans le cloud. <br/>Après avoir passé plusieurs années dans ces activités de développement au sein de différentes startups, Benjamin est entré en tant que sous-traitant au service de Thalès. Il a alors travaillé sur des projets Big Data et la conception de systèmes distribués. <br/>C'est en tant qu’architecte, Tech Lead ou encore Product Owner, qu'il a travaillé sur des sujets de transformation digitale au sein de Thalès AMS et Thalès Digital Factory. <br/>Au cours de ces expériences, AMBE est devenu un fervent défenseur des pratiques Agiles, de la culture DevOps, de l’infrastructure as code et des développements reposant sur le test first. <br/>Convaincu qu'une équipe est avant tout une aventure humaine, AMBE a rejoint Octo en Février 2020 où il peut y développer sa connaissance de la culture DevOps, du Software Craftmanship et du Data Engineering. <br/>Ce qu'il aime par dessus tout ? Voir une équipe s'accomplir dans son travail et délivrer sereinement un produit de qualité, utile et utilisé par ses utilisateurs.
-
--   poly: CAMP
-    name: Nicolas Campourcy
-    job: Consultant Agile | Product Owner
-    bio: |
-        Nicolas est un expert en Lean Engineering et en conception de produits, notamment d’applications mobiles. Il a rejoint OCTO Technology en Janvier  2019.<br/>Entre 2011 et 2014, Nicolas intervient auprès de grands groupes industriels (Airbus, Bombardier, Areva) et d’ETI (Mobalpa) comme coach/formateur en Lean Engineering et déploie les outils et méthodes (Management Visuel, Value Stream Mapping, Problem solving) après des divisions métiers (R&D, Produit, Opérations, fonctions supports).<br/>Depuis 2015, Nicolas se spécialise dans les applications mobiles en B2B et B2C, de la conception du produit jusqu’à la livraison et la mise sur le marché. Il a créé en France l’application Image It destinée aux voyageurs nomades puis est parti au Vietnam fonder HOTTAB, une startup d’édition d’applications pour restaurants, où il a occupé les postes de Product Owner et Scrum Master avant de prendre des responsabilités commerciales.<br/>Nicolas est passionné par la conception de produits, le partage des méthodes ainsi que l’amélioration continue. Il est également convaincu que la transformation digitale des entreprises passe par l’innovation et l’adoption de nouveaux usages.
-
 -   poly: CHBE
     name: Christelle Bergé
     job: Consultant Agile | Product Owner
@@ -33,26 +21,6 @@
         Successivement il a pu ainsi contribuer à de larges programmes de transformation introduisant de nouveaux concepts tels que la Digital Factory (en lien avec les PLM), la mise en place d’ERP (SAP) englobant plusieurs métiers, organisations et géographies, et ce pour différents clients.
         Dans l’esprit de cette complémentarité, c’est tout naturellement qu’il embrasse le monde digital en 2015 pour mettre au service des métiers les nouvelles technologies émergentes incluant le Cloud, la Mobilité et la Réalité Étendue, l’Analytics (et la Data Science), l’IoT et autres sujets tels que la Blockchain.
         Aujourd’hui, il anime le déploiement de l’offre OCTO Technology sur la mise en oeuvre des technologies digitales et les méthodologiques associées (agilité, craft), pour le compte des clients de la région Sud-Ouest et ceux du monde aéronautique et spatial en France.
-
-
--   poly: GOIV
-    name: Ivan Gorobenko
-    job: Software Craftsman | Coach Agile
-    bio: |
-        Ivan a 10 années d’expérience en tant que développeur, coach agile, consultant, scrum master et product owner. Il est un consultant polyvalent et a travaillé dans des diverses domaines métier: energie & utilities, transport, marketing et aéronautique, dans des équipes multiculturelles.
-        Durant sa carrière, Ivan a expérimenté divers cadres d’organisations, du cycle en V jusqu’à Kanban, Scrum et XP. Il est convaincu que la mise en pratique des valeurs de l’agilité et de l’artisanat du code sont des atouts indéniables pour créer des formidables produits.
-        Chez OCTO Ivan a démarré son parcours il y a 3 ans en tant que coach agile. Aujourd’hui il cherche à approfondir son expertise en tant que développeur Craft fullstack.
--   poly: CHRY
-    name: Charles Pichery
-    job: Software Craftsman
-    bio: |
-        Charles a obtenu un diplôme d’Ingénieur Civil des Mines à L’Ecole Nationale Supérieure des Mines de Saint Etienne en 2012. Suite à cela, il a d’abord fait un stage en recherche informatique chez IBM en Irlande, pour ensuite travailler pour Amadeus pendant 7 ans, d’abord en sous traitance chez Synchrone Technologies, puis en direct.<br/>Fort de ces 7 années d’expérience dans les applications e-commerce pour les compagnies aériennes, où il a d’abord occupé le poste de développeur, puis tech leader, ainsi que le rôle de Scrum Master, Charles a acquis un certain recul sur les pratiques de développement et la gestion de projets en méthodologie agile.<br/>Charles a rejoint OCTO en Novembre 2019, souhaitant développer sa pratique du Software Craftsmanship et assouvir sa passion pour l’accompagnement d’entreprises différentes, que ce soit en taille, organisation, technologies ou culture.
-
--   poly: ASI
-    name: Alexandre Siguier
-    job: Consultant Agile | Architecte d'Entreprise
-    bio: |
-        Alexandre a plusieurs années d'expérience dans deux domaines a priori bien éloignés : l'agilité des équipes de réalisation et l'architecture d'entreprise. <br/>Cette double approche lui permet d'accompagner les équipes au quotidien, en travaillant sur les dynamiques d'équipes tout en travaillant sur l'intégration dans le système plus grand qu'est l'entreprise.
 
 -   poly: YOL
     name: Yohan Lascombe
@@ -107,4 +75,15 @@
     name: Jean-Baptiste Froment
     job: DevOps
     bio: |
-         
+        Fort de divers rôles (développeur, formateur, devops) dans le logiciel (Dassault Systemes)  et pour les industries aéronautiques (Airbus) et automobiles (Valeo), Jean-Baptiste dispose d’un solide bagage technique et organisationnel.
+        Depuis son arrivée à Octo en Juin 2021, Jean-Baptiste intervient au sein d’Accenture afin d’automatiser les processus de gestion de configuration, d’installation et de déploiement des plateformes PLM.
+
+-   poly: MOPO
+    name: Morgane Pouquet
+    job: Consultant Agile | Product Owner
+    bio: |
+
+-   poly: NASA
+    name: Najwa Sabir
+    job: Consultant Data Science
+    bio: |
