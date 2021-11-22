@@ -30,19 +30,61 @@ layout: default
                 </div>
             </div>
 
-            <!--div class="col">
+            <div class="col">
                 <div class="box content">
-                    <h3 class="title--section">Nos BBL.</h3>
+                    <!--h3 class="title--section">Nos BBL.</h3-->
 
                     {% for bbl in site.data.bbl %}
                     {% include bbl.html bbl=bbl %}
                     {% endfor %}
                 </div>
-            </div-->
+            </div>
         </div>
     </div>
 
+    <div class="col">
+        <div class="row row--vertical">
+            <div class="col">
+                <div class="box content">
+                    <h2>OCTO recrute à Toulouse.</h2>
 
+                    <p>Plus qu'une <b class="emphase">Great Place To Work</b>, OCTO se vit en interne comme une
+                        véritable <b class="emphase">Best Place To Grow</b>.</p>
+                    <img src="assets/images/GPTW.jpg">
+                    <img class="img-bcorp" src="assets/images/BCorp-black.png">
+                    <a href="/join-us.html" class="btn">Rejoignez-nous !</a>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="box">
+                    <h3 class="title--section">Suivez-nous.</h3>
+
+                    <div class="content">
+                        <a class="twitter-timeline" data-height="600"
+                           href="https://twitter.com/OctoToulouse?ref_src=twsrc%5Etfw">Tweets by octo toulouse</a>
+                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="box">
+                    <h3 class="title--section">Évènements.</h3>
+
+                    <div class="content">
+                        {% unless site.data.events %}
+                        <small>Aucun évenement pour le moment.</small>
+                        {% endunless %}
+
+                        {% for event in site.data.events limit: 3 %}
+                        {% include event.html event=event %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="row row--vertical">
