@@ -192,6 +192,49 @@ img {
     }
 }
 
+.banner {
+padding-top:50px;
+padding-bottom:50px;
+background-color:#ffffff;background:url("../assets/images/banner_bg.png");
+background-position:center;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+min-width: 1200px;
+
+}
+
+.banner h3{
+margin-bottom:10px;
+margin-top:10px
+}
+
+.banner h4{
+font-family:"Avenir LT Com 55 Roman", "Arial Black", Gadget, sans-serif;
+margin-top:0px;
+font-weight:bold
+}
+
+strong.title{
+font-weight:bold;
+font-size:1.5rem;
+font-family:"Avenir LT Com 65", "Arial Black", Gadget, sans-serif;
+color:#0e2356
+}
+
+.banner img{
+width:40%;
+padding-bottom:0px;
+padding-top:0px;
+}
+
+.banner img{width:100%}header{background-color:#e0e1e6}.row--vertical>.col{margin-top:4rem}
+
+.brand-image{
+width:350px
+}
+
 .content {
     padding: $padding;
 
@@ -235,7 +278,14 @@ img {
 
 @media screen and (min-width: $desktop-size) {
     h3.title--section {
-        font-size: 3.5rem;
-        margin-top: -2.9rem;
+        font-size: 3rem;
+        margin-top: -2.5rem;
     }
 }
+
+h3.title--top {
+	font-size: 3rem;
+	margin-top: 2.5rem;
+}
+
+.peoplejob { font-weight:normal; }

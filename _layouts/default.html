@@ -48,13 +48,18 @@
 <body class="page-{{page.name | split: '.' | first}}">
 <header>
 
-    <div class="wrapper col">
+    <!--div class="wrapper col">
         <a href="/"><img src="{{ '/assets/images/brand.svg' | relative_url }}" class="brand-image"></a>
-    </div>
+    </div-->
 
     {% if page.name == 'index.html' %}
     <div class="text-center banner">
-        <img src="{{ '/assets/images/header.png' | relative_url }}">
+		     <a href="https://www.octo.com/" target="_blank"><img src="./assets/images/brand.svg" class="brand-image" /></a>
+
+            <br />
+            <h3 class="title--top">Digital Thinkers & Doers</h3>
+            <h4>Conseil et réalisation IT dans le Sud-Ouest</h4>
+        <!-- img src="{{ '/assets/images/header.png' | relative_url }}"-->
     </div>
     {% endif %}
 </header>
