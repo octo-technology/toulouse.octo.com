@@ -11,6 +11,9 @@
           content="{{ page.excerpt | default: content | default: site.description | strip_html | normalize_whitespace | truncate: 240 | escape }}">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
+	<meta property="og:image" content="https://toulouse.octo.com/assets/images/header.png" />
+	<meta property="og:url"content="https://toulouse.octo.com" />
+	<meta property="og:title" content="Octo Toulouse" />
 
     <link href="{{ '/assets/images/favicon.ico' | relative_url }}" rel="shortcut icon">
     <link rel="stylesheet" href="{{ '/assets/normalize.css' | relative_url }}">
@@ -54,7 +57,7 @@
 
     {% if page.name == 'index.html' %}
     <div class="text-center banner">
-		     <a href="https://www.octo.com/" target="_blank"><img src="./assets/images/brand.svg" class="brand-image" /></a>
+		     <a href="https://www.octo.com/" target="_blank"><img src="./assets/images/brand_1656_302.png" class="brand-image" /></a>
 
             <br />
             <h3 class="title--top">Digital Thinkers & Doers</h3>
