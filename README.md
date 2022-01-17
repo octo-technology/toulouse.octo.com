@@ -13,3 +13,9 @@ bundle config set path 'vendor/bundle'
 bundle install
 bundle exec jekyll serve --port 12000 --livereload
 ```
+
+## Setup Jekyll Server inside a container
+```
+sudo make build-container
+sudo make run-container
+```

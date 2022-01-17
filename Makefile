@@ -11,15 +11,14 @@ help: ## Show this help
 
 .PHONY: build-container
 build-container: ## Build container
-    @docker build -t $(APP_NAME) .
+	@docker build -t $(APP_NAME) .
         
 .PHONY: run-container
 run-container: ## Start a development container with all the necessary dependencies installed
 	@echo "Starting a development container. Type 'exit' (or hit 'ctrl+d') to quit"
 	@-docker run -it \
-		--pull=always \
 		--volume="$(PWD):/srv/jekyll"  \
 		--workdir /srv/jekyll \
 		--publish $(JEKYLL_PORT):$(JEKYLL_PORT) \
-		$(APP_NAME) bundle exec jekyll serve --port $(JEKYLL_PORT) --host 0.0.0.0
+		$(APP_NAME):latest bundle exec jekyll serve --port $(JEKYLL_PORT) --host 0.0.0.0
 
