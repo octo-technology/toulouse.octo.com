@@ -17,32 +17,52 @@ layout: default
                         </div-->
                         <p id="about-camp">Chez OCTO Toulouse, nous sommes fiers d’accompagner vos équipes dans leur contexte de transformation et de réalisation logicielle.
 Nous avons à coeur de co-construire des solutions sur mesure en transmettant notre savoir-faire end-to-end. </p>
-                        <p>
-							<h4>Méthodo & Change</h4>
-							<ul>
-							<li>Agile, Kanban</li>
-							<li>Facilitation </li>
-							<li>Accompagnement au changement</li>
-							<li>Coaching d’organisation et coaching d’équipe</li>
-							<li>Cadrage 360°</li>
-							</ul>
-							<h4>Data & Cognitive Automation</h4>
-							<ul>
-							<li>Data engineering</li>
-							<li>Data science, Intelligence Artificielle</li>
-							<li>ML Ops</li>
-							<li>Data ops</li>
-							<li>Architecture data</li>
-							</ul>
-							<h4>Software engineering</h4>
-							<ul>
-							<li>Réalisation et co-réalisation de logiciels</li>
-							<li>Culture DevOps</li>
-							<li>Culture Craftsmanship</li>
-							<li>Construction d’équipes de réalisation : team is the product</li>
-							</ul>
-						</p>
-							<p class="emphaseblue" >… en complémentarité avec toute la communauté “remote” de 800 passionnés et experts disponibles pour contribuer aux besoins. </p>
+                        
+                        <div class="flex bloc-expertises">
+                            <div class="col-3 align-vertically">
+                                <img src="{{ '/assets/images/expertises/img_fusee.png' | relative_url }}" class="img-illustration" alt="Expertises méthodologies et changes" usemap="#camp">
+                                <div>
+                                    <h4>Méthodo & Change</h4>
+                                    <ul>
+                                        <li>Agile, Kanban</li>
+                                        <li>Facilitation </li>
+                                        <li>Accompagnement au changement</li>
+                                        <li>Coaching d’organisation et coaching d’équipe</li>
+                                        <li>Cadrage 360°</li>
+                                    </ul>
+                                </div>
+                                
+                            </div>
+							<div class="col-3 align-vertically">
+                                <img src="{{ '/assets/images/expertises/img_microscope.png' | relative_url }}" class="img-illustration" alt="Data et Cognitive automation" usemap="#camp">
+                                <div>
+                                    <h4>Data & Cognitive Automation</h4>
+                                    <ul>
+                                        <li>Data engineering</li>
+                                        <li>Data science, Intelligence Artificielle</li>
+                                        <li>ML Ops</li>
+                                        <li>Data ops</li>
+                                        <li>Architecture data</li>
+                                    </ul>
+                                </div>
+                            </div>
+							
+                            <div class="col-3 align-vertically">
+                                <img src="{{ '/assets/images/expertises/img_coffre_tresor.png' | relative_url }}" class="img-illustration" alt="Software engineering" usemap="#camp">
+                                <div>
+                                    <h4>Software engineering</h4>
+                                    <ul>
+                                        <li>Réalisation et co-réalisation de logiciels</li>
+                                        <li>Culture DevOps</li>
+                                        <li>Culture Craftsmanship</li>
+                                        <li>Construction d’équipes de réalisation : team is the product</li>
+                                    </ul>
+                                </div>
+                                
+                            </div>
+						</div>
+
+                        <p class="subtitle m-t" >… en complémentarité avec toute la communauté “remote” de 800 passionnés et experts disponibles pour contribuer aux besoins. </p>
                     </div>
                 </div>
             </div>
@@ -50,7 +70,7 @@ Nous avons à coeur de co-construire des solutions sur mesure en transmettant no
             <!--
             <div class="col">
                 <div class="box content">
-                    h3 class="title--section">Nos BBL.</h3>
+                    <h3 class="title--section">Nos BBL.</h3>
 
                     {% for bbl in site.data.bbl %}
                     {% include bbl.html bbl=bbl %}

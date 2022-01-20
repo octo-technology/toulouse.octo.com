@@ -146,6 +146,15 @@ img {
 .col {
     flex-basis: 100%;
 }
+.col-3 {
+    flex-basis: 30%;
+}
+.align-vertically {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 0;
+}
 
 .box {
     padding-top: 1rem;
@@ -291,6 +300,34 @@ h3.title--top {
 .peoplejob { font-weight:normal; }
 
 .emphaseblue {
-color: #00afcb;
-font-weight: bold;
+    color: #00afcb;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-family: $font-headline;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #00afcb;
+}
+.flex {
+    display: flex;
+}
+.m-t {
+    margin-top: 2rem;
+}
+.m-b {
+    margin-bottom: 2rem;
+}
+.img-illustration {
+    width: 45%
+}
+
+.bloc-expertises{
+    margin-top: 3rem;
+}
+.bloc-expertises ul {
+    padding: 1rem;
+    margin-top: 0px;
+    padding-top: 0px;
 }
