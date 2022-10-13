@@ -108,3 +108,23 @@
         Convaincu que l'IT est un vecteur important de la performance d'une organisation, indépendamment de son secteur d'activité, et conscient de l'impact limité des optimisations locales, il cherche constamment à implémenter ces bonnes pratiques à tous les étages d'une organisation.
         Plus récemment, il a rejoint OCTO afin d'échanger et d'apprendre auprès d'une communauté de passionnés tout ce qui fait un bon produit IT.
 
+-   poly: MEXA
+    name: Xavier Meunier
+    job: Manager Référent - Sécurité infrastructures
+
+    bio: |
+        Xavier, 41 ans avec 15 ans de carrière commencée dans les réseaux coeur IMS (Voix sur IP) en 2006 après un master en télécoms à Paris VI et ENST.
+        Une première partie de carrière sur un poste de Field Application Engineer chez OneAccess (maintenant Ekinops). Consistant en un job d’avant-vente / support N3 pour des opérateurs télécoms internationaux (Telfonica O2, Bezek, Tiscali, etc.) sur technologies WAN, Firewalling, VPN, VoIP, IPv6.
+        L'essor du cloud (comprendre de la virtualisation managée) l’amène à travailler pour Arismore (Maintenant Accenture Security) sur des missions clients tels que le PMU, GRDF, sur des sujets autour de la sécurisation des infrastructures avec des études de faisabilité et l’accompagnement de projets dans des démarches d’architecture (besoins, contraintes, scénario, validation, risques) avec par exemple des projets tels que la mise en oeuvre d’User Awareness firewalling, d’Infrastructures SI-DR, de sécurisation cloud Kubernetes sur Azure, de services DMZ (IDS, WAF, FW, RP, etc.), etc.
+        Depuis 2 ans, il travaille sur la sécurisation des infrastructures et des outils CI/CD orientés cloud (Kubernetes) dans une logique de défense en profondeur alliant en somme les technologies, les outils, les processus et la gouvernance.
+
+        
+
+-   poly: JULE
+    name: Emmanuel JULIA
+    job: Développeur - Craftsman
+    bio: |
+        Après une première expérience professionnelle comme ingénieur en biologie moléculaire, Emmanuel a effectué en 2018 une reconversion vers le métier de développeur logiciel. 
+        Dès le début de sa formation, il a pris une position très axée sur la qualité de code et la maintenabilité logicielle. Sa formation lui a ensuite permis d'expérimenter des pratiques essentielles d'artisanat logiciel telles que le TDD (Test-Driven Development) et le Pair-Programming. Il a également mis en place durant cette période une veille technique solide sur ces sujets, qu'il a toujours maintenue depuis.
+        En parallèle de sa formation, Emmanuel a intégré l'entreprise Capgemini, et a travaillé comme développeur sur le segment sol d'une constellation de satellites d'observation de la Terre. Cette expérience lui a appris à intégrer un domaine à haute complexité fonctionnelle, et à travailler sous clause de Secret Industrie. Il a découvert ainsi les processus industriels qui entourent la production d'un logiciel dans le secteur spatial, notamment en termes de sécurité, de livraison et de documentation.
+        En 2022, Emmanuel rejoint Octo pour développer et partager son expertise dans les pratiques d'artisanat logiciel et contribuer à de nouveaux champs de compétences fonctionnelles.
