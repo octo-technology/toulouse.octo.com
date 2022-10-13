@@ -6,11 +6,12 @@ WORKDIR /srv/jekyll
 RUN  apk update && apk add --no-cache build-base
 RUN  apk add ruby ruby-dev ruby-bundler bash
 RUN  gem install bundler bigdecimal webrick json
+
+COPY ./ /srv/jekyll
+
 RUN  bundle update --bundler
 RUN  bundle config set path 'vendor/bundle'
 RUN  bundle install
-
-COPY ./ /srv/jekyll
 
 EXPOSE 4000
 
