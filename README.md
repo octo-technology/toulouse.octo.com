@@ -2,6 +2,7 @@
   <img src="/brand.png" alt="OCTO Toulouse">
 </p>
 
+
 ## Setup Jekyll server using Ruby Quickstart
 ```
 sudo yum group install 'Development Tools'
