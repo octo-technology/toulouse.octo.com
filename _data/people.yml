@@ -128,9 +128,3 @@
         Dès le début de sa formation, il a pris une position très axée sur la qualité de code et la maintenabilité logicielle. Sa formation lui a ensuite permis d'expérimenter des pratiques essentielles d'artisanat logiciel telles que le TDD (Test-Driven Development) et le Pair-Programming. Il a également mis en place durant cette période une veille technique solide sur ces sujets, qu'il a toujours maintenue depuis.
         En parallèle de sa formation, Emmanuel a intégré l'entreprise Capgemini, et a travaillé comme développeur sur le segment sol d'une constellation de satellites d'observation de la Terre. Cette expérience lui a appris à intégrer un domaine à haute complexité fonctionnelle, et à travailler sous clause de Secret Industrie. Il a découvert ainsi les processus industriels qui entourent la production d'un logiciel dans le secteur spatial, notamment en termes de sécurité, de livraison et de documentation.
         En 2022, Emmanuel rejoint Octo pour développer et partager son expertise dans les pratiques d'artisanat logiciel et contribuer à de nouveaux champs de compétences fonctionnelles.
-
--   poly: OCTO
-    name: OCTO Toulouse
-    job:
-    bio: |
-        Il est pas beau mon <b class="emphase">béret ? </b>? 
