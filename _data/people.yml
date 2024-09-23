@@ -8,102 +8,52 @@
         - La refonte complète du SI de la compagnie aérienne CorsairFly, avec une orientation forte sur un SI basé sur le Cloud
         - La réorganisation d’une équipe de R&D logicielle en équipes produits pour le compte de la société Parkeon, leader dans la fourniture d’équipements billettiques pour les domaines du Transport et du Parking
         - Le développement d’applications Front Office mobiles d’aide à la vente pour des acteurs majeurs du Luxe et de la Distribution.
-        
-        Christophe est diplômé de Supélec, promotion 1986.
 
--   poly: CHBE
-    name: Christelle Bergé
-    job: Consultante Agile | Product Owner
-    bio: |
-        Christelle a 8 années d'expérience auprès de clients industriels.
-        C’est en 2016, sur un projet extrêmement attendu, que l’agilité s’est imposée comme voie la plus raisonnable pour livrer rapidement un produit qui réponde aux besoins prioritaires. Les efforts fournis ont été transformés en promesses tenues.
-        Aujourd’hui, elle maîtrise les frameworks et les outils, prolongeant ainsi son expertise initiale en gestion de projets, en management d'équipes et en transformation des organisations. Elle est certifiée SAFe 4 Agilist.
-        Les équipes et les rôles qu’elle accompagne gagnent en alignement sur le produit ou le service, collaborent mieux aux interfaces, changent leur façon d’appréhender les choses et augmentent ainsi leur performance. Son style naturel de leadership invite à l’implication et à l’expression, au courage et aux feedbacks, qui sont essentiels à l'autonomisation et à l'initiative.
-        Christelle sait s’adapter aux contextes en ajustant ses postures d’expert, de formateur, de facilitateur et de coach.
-        Elle parle couramment l'anglais.
+        Christophe est diplômé de Supélec, promotion 1986.
 
 -   poly: GAST
     name: Stéphane Gaulier
     job: Partner
     bio: |
         De formation aéronautique, Stéphane a débuté sa carrière en 1996 dans la mise en œuvre fonctionnelle et technique d’un ERP spécifique sur le marché des services industriels. Cette expérience lui a permis d’appréhender des techniques de développement, d’optimisation et de maintenance logiciel alors naissantes et ce, tant sur le backend, le frontend que les bases de données.
-        Par la suite, il a poursuivi son expérience dans le domaine des télécommunications en abordant la problématique des progiciels mixant bonne connaissance du logiciel standard, de son paramétrage et des développement spécifiques à y connecter. Au cours de ces quelques années, Stéphane a pu approfondir :
+        Par la suite, il a poursuivi son expérience dans le domaine des télécommunications en abordant la problématique des progiciels mixant bonne connaissance du logiciel standard, de son paramétrage et des développements spécifiques à y connecter. Au cours de ces quelques années, Stéphane a pu approfondir :
         La conception et l’architecture applicative, le développement, les tests, la migration, les mise en production et les opérations
         La contribution à de larges projets d’implémentation et de maintenance en environnement souvent contraint, tout comme le lancement d’entités nouvelles en mode start-up en environnement totalement vierge.
-        Depuis 17 ans, Stéphane évolue en région toulousaine, majoritairement dans le secteur aéronautique où il a pu développer une complémentarité bout-en-bout sur des expertises métier (Manufacturing & Qualité, Supply Chain, Customer Service, Engineering) et une bonne appréhension des technologies en place ou émergente, mais également sur les pratiques du changement des processus et des organisations.
+        Depuis 20 ans, Stéphane évolue en région toulousaine, majoritairement dans le secteur aéronautique où il a pu développer une complémentarité bout-en-bout sur des expertises métier (Manufacturing & Qualité, Supply Chain, Customer Service, Engineering) et une bonne appréhension des technologies en place ou émergente, mais également sur les pratiques du changement des processus et des organisations.
         Successivement il a pu ainsi contribuer à de larges programmes de transformation introduisant de nouveaux concepts tels que la Digital Factory (en lien avec les PLM), la mise en place d’ERP (SAP) englobant plusieurs métiers, organisations et géographies, et ce pour différents clients.
         Dans l’esprit de cette complémentarité, c’est tout naturellement qu’il embrasse le monde digital en 2015 pour mettre au service des métiers les nouvelles technologies émergentes incluant le Cloud, la Mobilité et la Réalité Étendue, l’Analytics (et la Data Science), l’IoT et autres sujets tels que la Blockchain.
-        Aujourd’hui, il anime le déploiement de l’offre OCTO Technology sur la mise en oeuvre des technologies digitales et les méthodologiques associées (agilité, craft), pour le compte des clients de la région Sud-Ouest et ceux du monde aéronautique et spatial en France.
+        Aujourd’hui, il anime le déploiement de l’offre OCTO Technology sur la mise en œuvre des technologies digitales et les méthodologiques associées (agilité, craft), pour le compte des clients en région (hors Ile de France) et ceux du monde aéronautique et spatial en France.
 
--   poly: POSY
-    name: Sylvie Ponthus
-    job: Coach Agile | Software Craftsman
-    bio: |
-        Développeur informatique, Sylvie a travaillé dans des équipes de développement de taille et de contexte très différents : chez un éditeur de progiciel ou dans un grand groupe, dans des petites structure et aussi pour de gros industriels.
-        Au fur et à mesure des projets Sylvie est devenue chef de projet. Tenir l’engagement est devenu l’objectif. Cette expérience lui a permis d’appréhender le génie logiciel dans sa globalité.
-        Son engouement pour l’agilité est le  résultat d’une maturation professionnelle. En effet, lo proximité du client et les échanges réguliers ont rendu de plus en plus évident que les adaptations du projet doivent être réalisées pendant le projet.
-        Sylvie s’est investie dans l’agilité en devenant Scrum Master, puis coach agile.
-        Récemment, elle a rejoint OCTO, afin de travailler dans un environnement stimulant de partages.
-
--   poly: JAMI
-    name: Michael Jach
-    job: Software Craftsman
-    bio: |
-        A Navblue (filiale d’Airbus), Michael a pu participer activement au développement d’un produit voué à la gestion des évènements qui se produisent lors d’un vol aérien. Le socle technique du projet intégrait du VueJS, Java Spring,  Terraform, Jenkins, Git, Docker, CesiumJS, Leaflet, D3Js, ...
-        Il a apporté son expertise sur de nombreux sujets et notamment sur l’architecture du projet frontend ainsi que du développement de celui-ci.
-        Grâce à ses appétences d’UX et UI il a également été force de proposition avec les équipes de design pour adapter le produit aux souhaits des utilisateurs finaux. Faisant partie intégrante d’une équipe de 10 personnes, Michael est une personne sociable et sait s’exprimer en public.
-        Récemment, il a rejoint OCTO et souhaitant s’orienter dans les technologies de cloud et d'automatisation, Michael intègre une équipe en charge du développement d’une application pour la DGAC (Direction Générale de l’Aviation Civile). Application qui intègre de nombreuses technologies telles que React, NodeJS, Typescript, Docker, Ansible, Terraform, Terragrunt express, Gitlab, … Ce projet lui permet de développer de nouvelles compétences dans le domaine du DevOps.
-
--   poly: GRAM
-    name: Martin Gravellini
-    job: Manager Data Science
-    bio: |
-        Martin est manager avec plus de 7 années d’expérience au sein d’Accenture et Octo sur des sujets de cadrage, développement et implémentation de projets et services Data Science.
-        Il aide les clients à valoriser leurs données au sein d’équipes pluridisciplinaires, incluant des data scientists, data engineer, data managers et data analystes, pour les départements des ventes et marketing, de la BI, ou de la logistique et approvisionnement. Il a travaillé pour différentes industries : services financiers, media, grande distribution, laboratoires pharmaceutiques…
-        Martin est diplômé de l’ENSAE et de Sciences Po Paris.
-        Parmi ses expérience pertinentes, Martin a accompagné ses clients dans :
-        Le développement de Data Lab (Grande Banque internationale et Groupe Cosmétique international), en participant à la réalisation de prototypes et à leur mise en production, en accompagnement l’équipe dans son organisation et sa valorisation au sein du groupe
-        La réalisation d’un système de recommandation de programmes pour un Média français, ainsi que la personnalisation des l’expérience des abonnés, depuis la mise en place et l’amélioration des algorithmes de recommandations, jusqu’à leur mise en production dans un environnement Big Data
-        L’accompagnement des différents acteurs de la Grande Distribution, notamment sur des problématiques de prévisions de ventes et d’optimisation des opérations promotionnelles.
-
--   poly: RIVI
-    name: Reynald Rivière
-    job: Senior Manager Data Science
-    bio: |
-        Reynald a rejoint OCTO Technology comme Senior Manager en Data Science pour intervenir sur des missions de création de nouveaux services et produits basés sur l’IA et la data .
-        Au début de sa carrière, avec l’arrivée de la vague Internet, il prend en charge la création de Systèmes d’Information Web dans la banque (Natixis), la bourse (Consors) ou l’assurance (MSA) pendant 15 ans. Puis il s’engouffre très tôt dans celle de l’IA et du machine learning avec un parcours de formation et des compétitions de Machine Learning qui le hissent dans le TOP 20 du classement Kaggle en France,  Il décide alors de créer sa startup AI-motion spécialisée en marketing et IA.
-        Continental lui confie la mise en place de l’équipe de R&D d’IA en France sur le véhicule intelligent et connecté qui se traduira notamment par l’acceptation de plusieurs brevets sur le véhicule autonome.
-        Reynald rejoint ensuite une cabinet de conseil comme Chief Data Scientist pour animer la communauté de data scientist chez des clients de secteurs variés comme l’industrie automobile, l’aéronautique, le retail, etc.
-
--   poly: JBFR
-    name: Jean-Baptiste Froment
-    job: DevOps
-    bio: |
-        Fort de divers rôles (développeur, formateur, devops) dans le logiciel (Dassault Systemes)  et pour les industries aéronautiques (Airbus) et automobiles (Valeo), Jean-Baptiste dispose d’un solide bagage technique et organisationnel.
-        Depuis son arrivée à Octo en Juin 2021, Jean-Baptiste intervient au sein d’Accenture afin d’automatiser les processus de gestion de configuration, d’installation et de déploiement des plateformes PLM.
 
 -   poly: MOPO
     name: Morgane Pouquet
     job: Consultante Agile | Product Owner
     bio: |
-        Au court de ses 10 années d’expériences, les choix d’orientation de Morgane ont toujours été motivés par le souhait de créer du lien : entre des métiers, des niveaux hiérarchiques, des personnes dans le but d’avancer, avec cohérence et enthousiasme. 
-        Elle a toujours évolué dans des contextes de transformation IT, impactant jusqu’à des milliers de personnes, dans différents pays. Morgane a alterné entre sa casquette conseil et coaching pour accompagner des features teams comme des équipes non IT (marketing, service client, juristes…). Elle est convaincue que c’est en accompagnant aussi ces dernières que les équipes IT peuvent gagner en performance. Cycle en V, Scrum, Kanban… ont été / sont son quotidien. Chef de projet, PO, Scrum Master, coach agile sont des rôles qu’elle s’est appliquée à tenir. Ca l’a d’ailleurs amenée à se faire certifier PSSM 1, PSPO1, SAFe 4 Agilist.
-        Convaincue par les valeurs agiles et la place de l’humain, c’est avant tout là dessus que Morgane mise pour permettre aux équipes de livrer un produit impeccable au client. 
+        Au cours de ses 12 années d’expérience, Morgane a toujours été animée par l’accompagnement des équipes, de la direction au terrain : leur permettre de coopérer pour qu’elles soient fières de leurs résultats et ce qui est délivré à leurs clients.
+
+        Avec son bagage en communication et sociologie des organisations elle oeuvre depuis dans des contextes de transformation IT impactant jusqu’à des milliers de personnes sur différents sites.
+        Ses 8 années dans des environnements agile lui ont permis de tenir les rôles de facilitatrice, coach agile, ainsi que d’accompagnatrice de la transformation à l’échelle (équipes IT, non IT, COMEX). Ça l’a amenée à se faire certifier PSSM 1, PSPO1, SAFe 4 Agilist.
+        Durant ses 7 années d’expérience en accompagnement au changement elle s’est appliquée à le rendre accessible et opérationnel.
+        Morgane s'appuie notamment sur des ateliers de facilitation et d'intelligence collective qu'elle construit sur-mesure selon le contexte. Ses clients notent l'accélération de la dynamique d'équipe et les résultats concrets de la coopération.
 
 -   poly: NASA
     name: Najwa Sabir
     job: Consultante Data Science
     bio: |
-        Najwa a fait un double diplôme en météorologie entre l’EHTP(Maroc) et l’ENM (Toulouse). Ce domaine très riche en statistiques et analyse de données a ouvert les yeux de Najwa sur le domaine de la data science et du Big Data. 
-        Durant sa dernière année d’étude, elle a choisi la spécialité “HPC-Big Data”, elle s’est inscrite au master complémentaire PSMSC dans le cadre d’un échange à l’ENSEEIHT et elle a effectué son stage de fin d’étude chez Kratos Communications. Ce stage a été une véritable opportunité pour utiliser sa formation double casquette afin de prévoir la dégradation du signal dues au intempéries.
-        Pleine d'énergie et d'enthousiasme, elle rejoint OCTO Technology Toulouse en tant que Data Geek.
+        Najwa a obtenu un double diplôme en météorologie entre l’EHTP (Maroc) et l’ENM (Toulouse). Ce domaine, riche en statistiques et en analyse de données, l’a initiée à la data science et au Big Data.
+
+        Durant sa dernière année d’études, elle a choisi de se spécialiser en “HPC-Big Data” et s'est inscrite au master complémentaire PSMSC dans le cadre d’un échange à l’ENSEEIHT. Animée par une grande passion pour l’innovation et la data, elle a rejoint OCTO Technology Toulouse en tant que Data Geek en décembre 2021.
+
+        Depuis, elle a participé à plusieurs projets de data analyse et de data engineering chez Airbus, dans différents départements tels que Manufacturing, Customer Services, ainsi que dans le secteur des compagnies aériennes. Son sérieux et son implication lui ont permis de renforcer ses compétences sur Skywise (Palantir) et d’approfondir sa compréhension de l’écosystème aéronautique.
+
+        En interne comme en externe, Najwa joue un rôle actif au sein de l’équipe data toulousaine, qui ambitionne de développer le business data local et d'accroître l'impact d’OCTO dans la région sud.
 
 -   poly: HAKI
     name: Hakim Hamza
     job: Ops
     bio: |
         "Les organisations les plus rapides à livrer sont aussi les plus stables : entre vitesse et stabilité, il n’y a pas de choix à faire."
-        
+
         Hakim a commencé sa carrière en 2018 où il a rejoint les équipes d'Airbus en tant que développeur C#/T-SQL. Rapidement, il cherche à introduire de nouvelles façons de collaborer et de livrer du code en production. Il commence alors à s'intéresser à tout l'ensemble de pratiques issues de la culture DevOps et à en distiller les briques au sein de son équipe. C'est ensuite chez Orange qu'il développera davantage ses compétences techniques sur le sujet en s'orientant vers un rôle d'Ops qui l'amène à travailler sur des providers Cloud, les technologies de conteneurisation ainsi qu'à l'automatisation de toute la chaîne de déploiement du code.
         Convaincu que l'IT est un vecteur important de la performance d'une organisation, indépendamment de son secteur d'activité, et conscient de l'impact limité des optimisations locales, il cherche constamment à implémenter ces bonnes pratiques à tous les étages d'une organisation.
         Plus récemment, il a rejoint OCTO afin d'échanger et d'apprendre auprès d'une communauté de passionnés tout ce qui fait un bon produit IT.
@@ -118,13 +68,72 @@
         L'essor du cloud (comprendre de la virtualisation managée) l’amène à travailler pour Arismore (Maintenant Accenture Security) sur des missions clients tels que le PMU, GRDF, sur des sujets autour de la sécurisation des infrastructures avec des études de faisabilité et l’accompagnement de projets dans des démarches d’architecture (besoins, contraintes, scénario, validation, risques) avec par exemple des projets tels que la mise en oeuvre d’User Awareness firewalling, d’Infrastructures SI-DR, de sécurisation cloud Kubernetes sur Azure, de services DMZ (IDS, WAF, FW, RP, etc.), etc.
         Depuis 2 ans, il travaille sur la sécurisation des infrastructures et des outils CI/CD orientés cloud (Kubernetes) dans une logique de défense en profondeur alliant en somme les technologies, les outils, les processus et la gouvernance.
 
-        
-
 -   poly: JULE
     name: Emmanuel Julia
     job: Développeur | Craftsman
     bio: |
-        Après une première expérience professionnelle comme ingénieur en biologie moléculaire, Emmanuel a effectué en 2018 une reconversion vers le métier de développeur logiciel. 
-        Dès le début de sa formation, il a pris une position très axée sur la qualité de code et la maintenabilité logicielle. Sa formation lui a ensuite permis d'expérimenter des pratiques essentielles d'artisanat logiciel telles que le TDD (Test-Driven Development) et le Pair-Programming. Il a également mis en place durant cette période une veille technique solide sur ces sujets, qu'il a toujours maintenue depuis.
-        En parallèle de sa formation, Emmanuel a intégré l'entreprise Capgemini, et a travaillé comme développeur sur le segment sol d'une constellation de satellites d'observation de la Terre. Cette expérience lui a appris à intégrer un domaine à haute complexité fonctionnelle, et à travailler sous clause de Secret Industrie. Il a découvert ainsi les processus industriels qui entourent la production d'un logiciel dans le secteur spatial, notamment en termes de sécurité, de livraison et de documentation.
-        En 2022, Emmanuel rejoint Octo pour développer et partager son expertise dans les pratiques d'artisanat logiciel et contribuer à de nouveaux champs de compétences fonctionnelles.
+        Après une première expérience comme ingénieur en biologie moléculaire, Emmanuel a effectué en 2018 une reconversion vers le métier de développeur logiciel.
+
+        Il a d'abord travaillé sur le segment sol d'une constellation de satellites d'observation de la Terre, puis a rejoint OCTO en 2022. Il travaille depuis au sein de la Direction Générale de l'Aviation Civile, pour laquelle il est intervenu sur des projets développés pour le contrôle d'approche puis pour les centres de contrôle en route.
+
+        Emmanuel est convaincu du rôle central de la qualité de code et de la maintenabilité logicielle dans le succès et la pérennité d'un projet. Il encourage les pratiques de Craftsmanship telles que le Clean Code, le TDD ou encore le Pair-Programming, et contribue à les démocratiser dès que possible. De plus, il défend la pratique d'une agilité sur mesure pour les besoins du client, permettant de travailler en cycles courts et au plus près des utilisateurs du produit.
+
+-   poly: OMDA
+    name: Omar Dahmen
+    job: Développeur Full Stack
+    bio: |
+        Diplômé en ingénierie informatique en 2018, Omar a débuté sa carrière en tant que développeur web. Son parcours l'a mené à intervenir sur une variété de projets dans des domaines variés tels que  la gestion des services, la gestion RH, ainsi que dans les secteurs de l’énergie et l'aéronautique.
+
+        Depuis plus d’un an chez OCTO, il est en mission à la DGAC, où il travaille sur le projet SysPEO. Ce projet consiste en une application web visant à automatiser la génération du message ATIS diffusé aux pilotes et à faciliter l'échange d'informations entre les aérodromes, offrant aux contrôleurs aériens des données précises et à jour pour améliorer l'efficacité et réduire les tâches redondantes.
+
+        Dans ses expériences antérieures, Omar a travaillé sur un CRM de gestion de services pour une startup dans le secteur de la plomberie, en développant des modules pour la gestion des missions, l'automatisation des tâches pour l'équipe support, ainsi que la gestion des techniciens. Il a également participé au développement d'un outil de Directory Management pour des clients tels que le CISIRH, le Parlement Européen, l'ANSM et l'ANAH. De plus, chez EDF, il a contribué à l'automatisation de mise en place de passerelles IoT pour remonter des mesures critiques dans des centres nucléaires.
+
+
+-   poly: PIEM
+    name: Emmanuel Pierre
+    job: Teach lead | Développeur fullstack
+    bio: |
+        Après un diplôme d'ingénieur en architecture des systèmes d'information, Emmanuel a travaillé pour de nombreux clients en tant que développeur puis tech lead Java : Ministère de la Santé, Cadremploi, SFR, RATP.
+        Il a acquis une appétence pour les back-ends des sites web tout en étant confronté à plusieurs problématiques techniques : sites grand public, architecture en micro-services, utilisation d’une blockchain, …
+        Il s'est auto-formé au développement d'applications mobiles et web avec Flutter.
+        En 2022, Emmanuel rejoint OCTO. Il intervient en tant que tech lead back sur une mission pour la DGAC.
+
+-   poly: INLO
+    name: Inès Louahadj
+    job: Data Engineer | Data Scientist
+    bio: |
+        Inès est diplômée du Master Données et Connaissances de l’Université Paul Sabatier de Toulouse. Avant ça, elle a suivi un parcours complet qui lui a permis d’explorer une grande diversité de domaines en plus de la Data et de l’IA :  le développement web, la 3D, etc.
+
+        Inès a rejoint OCTO Technology en 2022 pour travailler sur un stage de détection d’intrusion personnalisée aux SI grâce à l’IA. Elle y a développé un intérêt pour l’application des principes de Software Craftsmanship dans la data, et le MLOps. Ce sont des sujets qu’elle porte activement pour aider les clients à s’améliorer.
+
+        Elle a ensuite participé à la création la Data Team toulousaine d’OCTO sur des sujets de delivery dans l’aéronautique. Avec une forte expérience sur la plateforme Skywise (Palantir Foundry), Inès adopte une approche centrée utilisateur dans tous ses produits. Cette approche lui a permis de développer une forte compréhension du métier (Qualité, Logistique, Manufacturing, Airlines…) pour se concentrer sur leurs véritables problématiques, tout en appliquant les meilleures pratiques techniques.
+
+-   poly: ELOV
+    name: Elodie Viessil
+    job: Teach lead | Scrum master | Dev Back | Data Engineer
+    bio: |
+        Elodie a rejoint OCTO Technology en septembre 2022 en tant que consultante confirmée, avec plus de 8 ans d'expérience technique, dont 6 ans en tant que Data Engineer.
+
+        Issue d'une formation d'ingénieur en informatique, elle a démarré sa carrière en tant que développeuse Front-End et Back-End avant de se spécialiser dans la Data.
+
+        Animée par une véritable passion pour les données, elle a accompagné des clients majeurs dans les secteurs bancaire, assurance, services publics et aéronautique.
+        Au fil de ses missions, Elodie a acquis des compétences avancées en industrialisation, normalisation et centralisation sécurisée des données. Forte d'une expertise solide en Java et Spark, Elodie a su encadrer et faire monter en compétences des équipes tout en jouant un rôle clé de Scrum Master dans des environnements Agile.
+
+        Aujourd'hui, elle souhaite capitaliser sur ces expériences et se spécialiser dans l'architecture data, afin de répondre aux enjeux stratégiques de ses clients.
+
+-   poly: SMEP
+    name: Pierre Smeyers
+    job: Manager Référent Confirmé
+    bio: |
+        Développeur passionné depuis plus de 20 ans, Pierre possède une solide expérience dans de nombreux aspects du développement (technologies, architecture, agilité), avec un fort accent sur le DevOps (pratiques, CI/CD, automatisation) et le Cloud.
+
+        Créatif et enthousiaste, il assume naturellement son leadership, soit en tant que leader technique, soit en tant qu'expert logiciel et/ou DevOps.
+
+        Après 6 ans passés chez Dassault Système où il a appris de solides bases en ingénierie logicielle en tant que développeur Java, Pierre a rejoint Orange où il est resté 15 ans.
+        D’abord leader technique, développeur et architecte logiciel sur de nombreux projets (web, logiciel embarqué JS/TS, plateforme IoT en architecture microservices), Pierre a systématiquement mis sa créativité au service de la productivité collective, notamment en développant des outils ou frameworks originaux permettant de mieux structurer les activités de développement.
+        Enfin en tant que Developer Advocate de Orange pendant 2 ans, Pierre a animé les différentes communautés du logiciel, contribué à propager la culture du logiciel, et également développé un projet interne de templates CI/CD réutilisables qui a remporté un vif succès.
+
+        Ce projet est désormais open-source et Pierre continue à le développer et l’animer avec passion (to-be-continuous).
+
+        Pierre a rejoint Accenture/OCTO depuis 3 ans, où il a principalement travaillé en tant qu’expert DevOps et leader technique sur des projets dans le cloud (AWS).
+

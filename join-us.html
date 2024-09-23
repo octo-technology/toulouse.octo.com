@@ -7,7 +7,10 @@ title: Rejoignez-nous
     <div class="col">
         <div class="box box--lined">
             <h3 class="title--section">Rejoignez-nous.</h3>
-
+            <div class="content">
+                <a class="btn" href="mailto:{{site.email}}?subject=Je veux rejoindre OCTO Toulouse">Candidature
+                    spontanée</a>
+            </div>
             <div class="content">
                 {% for job in site.data.jobs %}
                 <a class="row job" href="{{job.url}}" target="_blank" itemscope
@@ -40,10 +43,6 @@ title: Rejoignez-nous
                 {% endfor %}
             </div>
 
-            <div class="content">
-                <a class="btn" href="mailto:toulouse@octo.com?subject=Je veux rejoindre OCTO Toulouse">Candidature
-                    spontanée</a>
-            </div>
         </div>
     </div>
 </div>
