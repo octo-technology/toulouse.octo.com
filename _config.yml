@@ -23,3 +23,7 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - vendor
+webrick:
+    headers:
+        Cache-Control: public, max-age=600
+        X-Content-Type-Options: nosniff
